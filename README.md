@@ -36,7 +36,15 @@
 ## ⚔️ Featured Projects
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby"  alt="Ruby" width="15" height="15"/> **Eye:** on web3.
+
+
+
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go"  alt="Go" width="15" height="15"/> **Guts:** On development.
+
+
+
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="15" height="15"/> **Bushido:** Pending on development.
 
 

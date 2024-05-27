@@ -1,6 +1,6 @@
 <!-- Welcome Section -->
 <div align="center">
-  <h1> 🐺 Welcome to the arc of Dark age! </h1>
+  <h1> 🐺 The arc of Dark age! </h1>
   <h3>Web3 Developer | OSINT | Bug Bounty Hunter</h3>
   
   [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/1hehaq)

@@ -14,9 +14,6 @@
 ---
 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9f6a3d44-80e0-4f5e-b3e0-3529f8eb79a9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-
 <!-- Introduction Section -->
 ## 🥷 Who Am I
 
@@ -31,10 +28,11 @@
 
 ---
 
+ ### Badges
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9f6a3d44-80e0-4f5e-b3e0-3529f8eb79a9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 
-<!-- Featured Projects Section -->
 ## ⚔️ Featured Projects
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby"  alt="Ruby" width="15" height="15"/> **Eye:** on web3.
@@ -57,7 +55,6 @@
 
 
 
-<!-- Let's Connect Section -->
 <h2>🔗 Let's Connect</h2>
 
 𝕏 : [1hehaq](https://x.com/1hehaq)
@@ -69,7 +66,6 @@
 
 
 
-<!-- Tech Stack Section -->
 <div align="center">
   <h1>
 👾 Languages
@@ -88,20 +84,18 @@
 
 
 
-<!-- Conclusion Section -->
 <div align="center">
   <h1>
   🛸 Streaks
   </h1>
 </div>
 
-<!-- SVG Animation Section -->
+
 <div align="center">
   <img src="https://camo.githubusercontent.com/3cf05209c211cd71526861c582c00b99c6fd3db6e94a5d639c8d69482e18f527/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d73616d6d6f726f7a6f76267468656d653d68696768636f6e747261737426686964655f626f726465723d7472756526626f726465725f7261646975733d3526636172645f77696474683d383030" alt="Snake Animation">
 </div>
 
 
-<!-- SVG Animation Section -->
 <div align="center">
   <img src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" alt="Snake Animation">
 </div>

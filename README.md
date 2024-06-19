@@ -6,8 +6,6 @@
   [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/1hehaq)
   [![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterusername?label=Follow&style=social)](https://twitter.com/1hehaq)
 </div>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="1hehaq" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/1hehaq?trk=profile-badge">Mohammed Misbahul haq (1hehaq)</a></div>
               
 
 <div id="header" align="center">
@@ -30,9 +28,6 @@
 
 
 ---
-
- ### Badges
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9f6a3d44-80e0-4f5e-b3e0-3529f8eb79a9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 

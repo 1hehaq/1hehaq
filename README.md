@@ -7,6 +7,9 @@
   [![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterusername?label=Follow&style=social)](https://twitter.com/1hehaq)
 </div>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="1hehaq" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/1hehaq?trk=profile-badge">Mohammed Misbahul haq (1hehaq)</a></div>
+              
+
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
 </div>

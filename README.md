@@ -1,93 +1,52 @@
-<!-- Welcome Section -->
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.x.com/1hehaq)
+<p>
+  <h4 align="center"><b>
+<a href="https://github.com/1hehaq"><img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMzUsInciOjEyNTAsImZzIjoxMDgsImZnYyI6IiNGRkZGRkYiLCJiZ2MiOiIjMDAwMDAwIiwidCI6MX0/SmhlaGFxIA/karasha.png" alt="Japanese fonts"></a>
+    </b>
+  </h4>
+</p>
+
+
 <div align="center">
-  <h1> 🐺 The arc of Dark age! </h1>
-  <h3>Web3 Developer | OSINT | Bug Bounty Hunter</h3>
   
   [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/1hehaq)
   [![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterusername?label=Follow&style=social)](https://twitter.com/1hehaq)
 </div>
               
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
-</div>
-
----
-
-              
-
-<!-- Introduction Section -->
-## 🥷 Who Am I
+<h4 align="center">              
+<a href="https://github.com/1hehaq" target="_blank" rel="noreferrer"><img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiI0ZGRkZGRiIsImJnYyI6IiNGRkZGRkYiLCJ0IjoxfQ/V2hvIEFtIEk/karasha.png" width="200" height="50" alt="Who Am I" /></a>
+</h4>
 
 
-#### I'm haq, a script kiddie. Who makes scripts using Ruby, Go, Python for bug bounty.
-
-
-| Ruby | Go | Python |
-|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby"  alt="Ruby" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go"  alt="Go" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="55" height="55"/>|
+<h4 align="center">
+<a href="https://github.com/1hehaq"><img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoyMCwidyI6MTI1MCwiZnMiOjE2LCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SSdtIGhhcSwgYSBzY3JpcHQga2lkZGllLiBXaG8gbWFrZXMgc2NyaXB0cyB1c2luZyBSdWJ5LCBHbywgUHl0aG9uIGZvciBidWcgYm91bnR5Lg/karasha.png" alt="About me"></a>
+</h4>
 
 
 ---
 
 
-
-## ⚔️ Featured Projects
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby"  alt="Ruby" width="15" height="15"/> **Eye:** on web3.
-
-
-
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go"  alt="Go" width="15" height="15"/> **Guts:** On development.
-
-
-
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="15" height="15"/> **Bushido:** Pending on development.
-
-
-
-
+<h4 align='center'><a href="https://github.com/1hehaq"><img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoyMCwidyI6MTI1MCwiZnMiOjE2LCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/TGFuZ3VhZ2Vz/karasha.png" alt="Languages"></a></h4>
+<br>
+<h1 align="center">
+<br>
+<a href="https://github.com/1hehaq" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ucif3r&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</h1>
 
 ---
 
 
-
-<h2>🔗 Let's Connect</h2>
-
-𝕏 : [1hehaq](https://x.com/1hehaq)
-
-
-
-
----
-
-
-
-<div align="center">
-  <h1>
-👾 Languages
-  </h1>
-</div>
-
-<div align="center">
-  <img src="https://camo.githubusercontent.com/2fedf1b9852a72d6ba156c53b14cfb41ea7f4d21f34e9a8f947386c5dda32035/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73616d6d6f726f7a6f762673697a655f7765696768743d302e313526636f756e745f7765696768743d302e35266c61796f75743d636f6d70616374267468656d653d766973696f6e2d667269656e646c792d6461726b" alt="Snake Animation">
-</div>
-
-
+<h5 align="left">
+<a href="https://x.com/1hehaq"><img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjo4MSwidyI6MTI1MCwiZnMiOjY1LCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/TGV0J3MgY29ubmVjdCBvbiA6IA/karasha.png" width="150" hight="80" alt="Connect"></a>     <a href="https://twitter.com/1hehaq" align="left"><img src="https://cdn.iconscout.com/icon/free/png-256/free-twitter-9420781-7651211.png" width="15" hight="15" alt="Twitter" /></a>
+</h5>
+<a href="https://x.com/1hehaq"><img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjo4MSwidyI6MTI1MCwiZnMiOjY1LCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/TGV0J3MgY29ubmVjdCBvbiA6IA/karasha.png" width="150" hight="80" alt="Connect"></a>      <a href="https://www.instagram.com/1hehaq" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram Logo" width="24" height="24">
+</a>
 
 
 ---
 
-
-
-
-<div align="center">
-  <h1>
-  🛸 Streaks
-  </h1>
-</div>
 
 
 <div align="center">

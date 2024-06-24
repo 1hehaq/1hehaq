@@ -25,7 +25,14 @@
 
 
 ---
+<div align="center">
 
+<a href="https://www.fontspace.com/category/japanese"><img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjozMCwidyI6MTI1MCwiZnMiOjI0LCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/QmFkZ2Vz/karasha.png" alt="Japanese fonts"></a>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/1hehaq.png" alt="TryHackMe">
+</div>
+
+---
 
 <h4 align='center'><a href="https://github.com/1hehaq"><img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoyMCwidyI6MTI1MCwiZnMiOjE2LCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/TGFuZ3VhZ2Vz/karasha.png" alt="Languages"></a></h4>
 <br>

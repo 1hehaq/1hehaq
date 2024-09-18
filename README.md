@@ -34,12 +34,9 @@
 
 ---
 
-<h4 align='center'><a href="https://github.com/1hehaq"><img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoyMCwidyI6MTI1MCwiZnMiOjE2LCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/TGFuZ3VhZ2Vz/karasha.png" alt="Languages"></a></h4>
-<br>
-<h1 align="center">
-<br>
-<a href="https://github.com/1hehaq" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ucif3r&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1hehaq&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</p>
 
 ---
 
@@ -64,4 +61,3 @@
 <div align="center">
   <img src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" alt="Snake Animation">
 </div>
-

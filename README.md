@@ -49,7 +49,7 @@ class SecurityResearcher:
         print("Thanks for stopping by! Take a look around and see what exciting things I've been working on.")
 
 
-me = SoftwareEngineer()
+me = SecurityResearcher()
 me.say_hi()
 ```
 

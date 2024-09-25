@@ -18,7 +18,7 @@
 
 <!-- Follow Buttons -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1hehaq&color=E7CFAA" alt="Profile Views">
+  <a href="https://komarev.com/ghpvc/?username=1hehaq&color=E7CFAA" <img src="https://komarev.com/ghpvc/?username=1hehaq&color=E7CFAA" alt="Profile Views"></a>
   <a href="https://github.com/1hehaq"><img src="https://img.shields.io/github/followers/1hehaq?label=Follow&style=social" alt="GitHub followers"></a>
   <a href="https://twitter.com/1hehaq"><img src="https://img.shields.io/twitter/follow/1hehaq?label=Follow&style=social" alt="Twitter Follow"></a>
 </p>
@@ -35,7 +35,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&vCenter=true&width=435&lines=Script+Kiddie;Bug+Bounty+Hunter;Bash+•+C+•+Flutter+•+Python+Dev" alt="Typing SVG" align="center"/></a>
+  <a href="https://github.com/1hehaq"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&vCenter=true&width=435&lines=Script+Kiddie;Bug+Bounty+Hunter;Bash+•+C+•+Flutter+•+Python+Dev" alt="Typing SVG" align="center"/></a>
 </p>
 
   <img src="https://github.com/user-attachments/assets/51542c5e-a09f-4c46-9ffd-e7b3046fa459" align="left" width="50" height="50" alt="image"/>

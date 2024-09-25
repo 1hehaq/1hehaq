@@ -1,5 +1,9 @@
 <!-- Banner Image (if you have a custom banner, ensure it matches the new color scheme) -->
-![saturn](https://github.com/user-attachments/assets/3ff73a31-2d57-4f01-bbc9-1bf11c3acadb)
+<!-- ![saturn](https://github.com/user-attachments/assets/3ff73a31-2d57-4f01-bbc9-1bf11c3acadb) -->
+
+<p align="right">
+<img src="https://github.com/user-attachments/assets/31b288e9-3269-4d1d-9525-f2b3eef738c1" alt="Saturn" width="300"/>
+</p>
 
 
 
@@ -28,10 +32,13 @@
   <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiI0U3Q0ZBQSIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/V2hvIEFtIEk/karasha.png" width="200" alt="Who Am I">
 </h2>
 
+
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&vCenter=true&width=435&lines=Script+Kiddie;Bug+Bounty+Hunter;Bash+•+C+•+Flutter+•+Python+Dev" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&vCenter=true&width=435&lines=Script+Kiddie;Bug+Bounty+Hunter;Bash+•+C+•+Flutter+•+Python+Dev" alt="Typing SVG" align="center"/></a>
 </p>
+
+  <img src="https://github.com/user-attachments/assets/51542c5e-a09f-4c46-9ffd-e7b3046fa459" align="left" width="50" height="50" alt="image"/>
 
 ```python
 #!/usr/bin/python
@@ -44,18 +51,35 @@ class SecurityResearcher:
         self.name = "Mohammed Misbahul Haq"
         self.role = "Security Researcher, Web Developer"
         self.language_spoken = ["ml_IN", "en_US"]
+        self.portfolio = "https://1hehaq.github.io/portfolio"
 
     def say_hi(self):
         print("Thanks for stopping by! Take a look around and see what exciting things I've been working on.")
+        print(f"Check out my portfolio at: {self.portfolio}")
 
 
 me = SecurityResearcher()
 me.say_hi()
 ```
 
+<!-- Quote -->
+<div align="left">
+  <a href="https://x.com/1hehaq">
+    <img src="https://github.com/user-attachments/assets/7efbb3c0-d297-42dd-81d1-e0062754dce2" alt="tweet-quote" width="400" style="margin-bottom: 20px;"/>
+  </a>
 </div>
 
+<br>
+
+</div>
+
+
 <div style="border: 2px solid #E7CFAA; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+
+<h2 align="center">
+  <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiI0U3Q0ZBQSIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/S25vd2xlZGdlIDwvPiBTa2lsbHM=/karasha.png" width="250" alt="Knowledge & Skills">
+</h2>
+
 
 <!-- Skills -->
 <p align="center">
@@ -90,7 +114,8 @@ me.say_hi()
 
 </div>
 
-----
+<br>
+<br>
 
 <div style="border: 2px solid #E7CFAA; border-radius: 10px; padding: 20px; margin-bottom: 20px; border: 2px solid #E7CFAA;">
 
@@ -103,37 +128,64 @@ me.say_hi()
 
 </div>
 
-<div style="border: 2px solid #E7CFAA; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1hehaq&langs_count=10&title_color=E7CFAA&text_color=E7CFAA&bg_color=000000&border_color=E7CFAA&hide_border=false&locale=en&custom_title=Top%20Languages" alt="Languages" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1hehaq&show_icons=true&bg_color=000000&text_color=E7CFAA&icon_color=E7CFAA&border_color=E7CFAA&title_color=E7CFAA" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=1hehaq&background=000000&ring=E7CFAA&fire=E7CFAA&currStreakNum=E7CFAA&sideNums=E7CFAA&currStreakLabel=E7CFAA&sideLabels=E7CFAA&dates=E7CFAA&stroke=E7CFAA" alt="GitHub Streak Stats" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1hehaq&bg_color=000000&color=E7CFAA&line=E7CFAA&point=E7CFAA&area_color=E7CFAA&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph" alt="GitHub Activity Graph" />
-</p>
-
-</div>
+<br>
+<br>
 
 <div style="border: 2px solid #E7CFAA; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+
+<h2 align="center">
+  <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiI0U3Q0ZBQSIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/cHJvamVjdHM=/karasha.png" width="100" alt="projects">
+</h2>
 
 <!-- Projects -->
 <p align="center">
   <a href="https://github.com/1hehaq/3PleB.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=3PleB&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=000000" />
   </a>
+    <a href="https://github.com/1hehaq/alltool.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=alltool&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=000000" />
+  </a>
   <a href="https://github.com/1hehaq/notif.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=notif&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=000000" />
+  </a>
+    <a href="https://github.com/1hehaq/loxs.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=loxs&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=000000" />
   </a>
 </p>
 
 </div>
+
+
+<br>
+<br>
+<br>
+
+
+<div style="border: 2px solid #E7CFAA; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+
+<!-- GitHub Status -->
+
+<div style="border: 2px solid #E7CFAA; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+
+<h2 align="center">
+  <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiI0U3Q0ZBQSIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/R2l0SHViIFN0YXRz/karasha.png" width="200" alt="GitHub Stats">
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1hehaq&langs_count=10&layout=compact&title_color=E7CFAA&text_color=E7CFAA&bg_color=000000&border_color=E7CFAA&hide_border=false&locale=en&custom_title=Used%20Languages" alt="Languages" height="200"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1hehaq&show_icons=true&bg_color=000000&text_color=E7CFAA&icon_color=E7CFAA&border_color=E7CFAA&title_color=E7CFAA&custom_title=Githu%20Status&hide_border=false&include_all_commits=true&count_private=true&hide=contribs" alt="GitHub Status" height="200" width="420"/>
+  <img src="https://streak-stats.demolab.com?user=1hehaq&background=000000&ring=E7CFAA&fire=E7CFAA&currStreakNum=E7CFAA&sideNums=E7CFAA&currStreakLabel=E7CFAA&sideLabels=E7CFAA&dates=E7CFAA&stroke=E7CFAA&hide_border=false" alt="GitHub Streak Stats" height="200" width="420"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1hehaq&bg_color=000000&color=E7CFAA&line=E7CFAA&point=E7CFAA&area_color=E7CFAA&area=true&hide_border=false&custom_title=Graph" width="850" alt="Contribution Graph"/>
+</div>
+
+</div>
+
 
 <div style="border: 2px solid #E7CFAA; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
 
@@ -144,11 +196,15 @@ me.say_hi()
 
 </div>
 
+<br>
+<br>
+<br>
+
 <div style="border: 2px solid #E7CFAA; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
 
 <!-- Connect Section -->
 <h2 align="center">
-  <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjo4MSwidyI6MTI1MCwiZnMiOjY1LCJmZ2MiOiIjRTdDRkFBIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/TGV0J3MgY29ubmVjdCBvbiA6IA/karasha.png" width="200" alt="Let's connect on:">
+  <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjo4MSwidyI6MTI1MCwiZnMiOjY1LCJmZ2MiOiIjRTdDRkFBIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/UmVhY2ggb3V0/karasha.png" width="200" alt="Reach Out">
 </h2>
 
 <p align="center">
@@ -166,9 +222,5 @@ me.say_hi()
   </a>
 </p>
 
----
-
-<!-- Quote -->
-<p align="center" style="color": #E7CFAA;>
-  <i>"The only way to do great work is to love what you do." - Steve Jobs</i>
-</p>
+<br>
+<br>

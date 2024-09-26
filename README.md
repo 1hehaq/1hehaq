@@ -134,20 +134,21 @@ me.say_hi()
 <br>
 <br>
 
-<div align="right" style="border: 2px solid #E7CFAA; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
 
 <!-- Projects -->
-<p align="right" style="display: flex; align-items: center;">
-  <a href="https://x.com/1hehaq"><img src="https://github.com/user-attachments/assets/51542c5e-a09f-4c46-9ffd-e7b3046fa459" width="50" height="50" alt="image" style="margin-left: 10px;" align="right"/></a>
-  <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiI0U3Q0ZBQSIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/cHJvamVjdHM=/karasha.png" width="100" alt="projects">
-</p>
+<div align="right" style="border: 2px solid #E7CFAA; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+
+  <p align="right" style="display: flex; align-items: center;">
+    <a href="https://x.com/1hehaq"><img src="https://github.com/user-attachments/assets/51542c5e-a09f-4c46-9ffd-e7b3046fa459" width="50" height="50" alt="image" style="margin-left: 10px;" align="right"/></a>
+    <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiI0U3Q0ZBQSIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/cHJvamVjdHM=/karasha.png" width="100" alt="projects">
+  </p>
 
 
 <p align="right">
-  <a href="https://github.com/1hehaq/3PleB.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=3PleB&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=000000" /></a>
-    <a href="https://github.com/1hehaq/alltool.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=alltool&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=000000" /></a>
-  <a href="https://github.com/1hehaq/notif.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=notif&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=000000" /></a>
-    <a href="https://github.com/1hehaq/loxs.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=loxs&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=000000" /></a>
+<a href="https://github.com/1hehaq/3PleB.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=3PleB&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e" /></a>
+<a href="https://github.com/1hehaq/alltool.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=alltool&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e" /></a>
+<a href="https://github.com/1hehaq/notif.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=notif&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e" /></a>
+<a href="https://github.com/1hehaq/loxs.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=loxs&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e" /></a>
 </p>
 
 </div>

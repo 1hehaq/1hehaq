@@ -146,8 +146,9 @@ me.say_hi()
 
 <p align="right">
 
-<a href="https://github.com/1hehaq/alltool.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=alltool&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e" /></a>
-<a href="https://github.com/1hehaq/loxs.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=loxs&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e" /></a>
+<a href="https://github.com/1hehaq/alltool.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=alltool&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
+<a href="https://github.com/1hehaq/3PleB.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=3PleB&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
+<a href="https://github.com/1hehaq/loxs.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=loxs&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
 <a href="https://1hehaq.github.io/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=portfolio&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
 </p>
 

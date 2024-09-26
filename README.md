@@ -190,6 +190,11 @@ me.say_hi()
 
 </div>
 
+<!-- Current Focus
+<h2 align="center">
+  <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjo4MSwidyI6MTI1MCwiZnMiOjY1LCJmZ2MiOiIjRTdDRkFBIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/Q3VycmVudCBGb2N1cw/karasha.png" width="220" alt="Current Focus">
+</h2> -->
+
 <br>
 <br>
 <br>
@@ -210,3 +215,8 @@ me.say_hi()
 
 <br>
 <br>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjo1NCwidyI6MTI1MCwiZnMiOjQzLCJmZ2MiOiIjRTdDRkFBIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/SGFja2luZyBpcyBhbiBhcnQsIHNlY3VyaXR5IGlzIGEgbGlmZXN0eWxl/karasha.png" width="400" alt="Hacking is an art, security is a lifestyle">
+</p>

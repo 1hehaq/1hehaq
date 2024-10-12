@@ -147,10 +147,11 @@ me.say_hi()
 <p align="right">
 <a href="https://github.com/coffinxp/lostools.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coffinxp&repo=lostools&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
 <a href="https://github.com/1hehaq/3PleB.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=3PleB&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
-<a href="https://github.com/1hehaq/cantc.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=cantc&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
 <a href="https://github.com/1hehaq/alltool.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=alltool&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
-<a href="https://github.com/1hehaq/loxs.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=loxs&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
 <a href="https://1hehaq.github.io/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=portfolio&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
+<!-- <a href="https://github.com/1hehaq/cantc.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=cantc&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a> -->
+<!-- <a href="https://github.com/1hehaq/loxs.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=loxs&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a> -->
+<a href="https://1hehaq.github.io/coffin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=coffin&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
 </p>
 
 </div>
@@ -210,10 +211,10 @@ me.say_hi()
 </h2>
 
 <p align="center">
-  <a href="https://twitter.com/1hehaq"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=E7CFAA&color=000000" alt="Twitter" /></a>
-  <a href="https://www.instagram.com/1hehaq" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=E7CFAA&color=000000" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com/in/1hehaq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=E7CFAA&color=000000" alt="LinkedIn" /></a>
-  <a href="https://1hehaq.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=E7CFAA&color=000000" alt="Medium" /></a>
+  <a href="https://x.com/1hehaq"><img src="https://img.shields.io/badge/1hehaq-1DA1F2?style=for-the-badge&logo=X&logoColor=E7CFAA&color=000000" alt="Twitter" /></a>
+  <a href="https://www.instagram.com/1hehaq" target="_blank"><img src="https://img.shields.io/badge/1hehaq-E4405F?style=for-the-badge&logo=instagram&logoColor=E7CFAA&color=000000" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/1hehaq"><img src="https://img.shields.io/badge/1hehaq-0077B5?style=for-the-badge&logo=linkedin&logoColor=E7CFAA&color=000000" alt="LinkedIn" /></a>
+  <a href="https://t.me/th3haq"><img src="https://img.shields.io/badge/th3haq-12100E?style=for-the-badge&logo=telegram&logoColor=E7CFAA&color=000000" alt="Telegram" /></a>
 </p>
 
 <br>

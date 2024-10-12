@@ -35,7 +35,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/1hehaq"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&vCenter=true&width=435&lines=Script+Kiddie;Bug+Bounty+Hunter;Bash+•+C+•+Flutter+•+Python+Dev" alt="Typing SVG" align="center"/></a>
+  <a href="https://github.com/1hehaq"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&vCenter=true&width=435&lines=Script+Kiddie;Bug+Bounty+Hunter;Web3%20Dev%20%26%20Audit;Solidity+•+Bash+•+Python+Dev" alt="Typing SVG" align="center"/></a>
 </p>
 
   <img src="https://github.com/user-attachments/assets/51542c5e-a09f-4c46-9ffd-e7b3046fa459" align="left" width="50" height="50" alt="image"/>

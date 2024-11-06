@@ -153,7 +153,7 @@ me.say_hi()
 <a href="https://1hehaq.github.io/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=portfolio&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
 <!-- <a href="https://github.com/1hehaq/cantc.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=cantc&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a> -->
 <a href="https://github.com/1hehaq/haq.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=haq&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
-<a href="https://1hehaq.github.io/guts.ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=guts.ai&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
+<a href="https://gutz.pages.dev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=guts.ai&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
 <a href="https://1hehaq.github.io/website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=website&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
 </p>
 

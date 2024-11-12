@@ -48,13 +48,13 @@
 class SecurityResearcher:
 
     def __init__(self):
-        self.name = "Mohammed Misbahul Haq"
+        self.name = "Haq"
         self.role = "Security Researcher, Web Developer"
-        self.language_spoken = ["ml_IN", "en_US"]
+        self.language_spoken = ["en_US"]
         self.portfolio = "https://1hehaq.github.io/portfolio"
 
     def say_hi(self):
-        print("Thanks for stopping by! Take a look around and see what exciting things I've been working on.")
+        print("Thanks for stopping by!")
         print(f"Check out my portfolio at: {self.portfolio}")
 
 

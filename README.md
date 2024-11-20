@@ -51,7 +51,7 @@ class SecurityResearcher:
         self.name = "Haq"
         self.role = "Security Researcher, Web Developer"
         self.language_spoken = ["en_US"]
-        self.portfolio = "https://1hehaq.github.io/portfolio"
+        self.portfolio = "https://1hehaq-portfolio.pages.dev"
 
     def say_hi(self):
         print("Thanks for stopping by!")

@@ -146,6 +146,7 @@ me.say_hi()
 
 <p align="right">
 <a href="https://github.com/coffinxp/lostools.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coffinxp&repo=lostools&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
+<a href="https://github.com/1hehaq/oty.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=oty&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
 <a href="https://reconhawk.pages.dev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=reconhawk.doc&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
 <a href="https://github.com/1hehaq/shef.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=shef&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
 <a href="https://github.com/1hehaq/3PleB.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1hehaq&repo=3PleB&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>

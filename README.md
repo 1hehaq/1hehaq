@@ -87,22 +87,25 @@ me.say_hi()
 <br>
 
 <!-- Skills -->
+
+<!-- Languages -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <p align="left">
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=E7CFAA&color=0d1117" alt="Go" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=E7CFAA&color=0d1117" alt="Bash" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=E7CFAA&color=0d1117" alt="Python" />
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=E7CFAA&color=0d1117" alt="C" />
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=E7CFAA&color=0d1117" alt="Java" />
-      <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=c%2B%2B&logoColor=E7CFAA&color=0d1117" alt="C++" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=E7CFAA&color=0d1117" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=E7CFAA&color=0d1117" alt="CSS3" />
-      <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&logoColor=E7CFAA&color=0d1117" alt="HTML5" />
+      <img src="https://img.shields.io/badge/.go-00ADD8?style=for-the-badge&logo=go&logoColor=E7CFAA&color=0d1117" alt=".go" />
+      <img src="https://img.shields.io/badge/.sh-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=E7CFAA&color=0d1117" alt=".sh" />
+      <img src="https://img.shields.io/badge/.py-3776AB?style=for-the-badge&logo=python&logoColor=E7CFAA&color=0d1117" alt=".py" />
+      <img src="https://img.shields.io/badge/.c-00599C?style=for-the-badge&logo=c&logoColor=E7CFAA&color=0d1117" alt=".c" />
+      <img src="https://img.shields.io/badge/.java-007396?style=for-the-badge&logo=java&logoColor=E7CFAA&color=0d1117" alt=".java" />
+      <img src="https://img.shields.io/badge/.cpp-F34B7F?style=for-the-badge&logo=c%2B%2B&logoColor=E7CFAA&color=0d1117" alt=".cpp" />
+      <img src="https://img.shields.io/badge/.js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=E7CFAA&color=0d1117" alt=".js" />
+      <img src="https://img.shields.io/badge/.css-2965F1?style=for-the-badge&logo=css3&logoColor=E7CFAA&color=0d1117" alt=".css" />
+      <img src="https://img.shields.io/badge/.html-5D4B6C?style=for-the-badge&logo=html5&logoColor=E7CFAA&color=0d1117" alt=".html" />
   </p>
 </div>
 
 <br>
 
+<!-- Tools -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <p align="left">
       <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=E7CFAA&color=0d1117" alt="Burp Suite" />

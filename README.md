@@ -61,6 +61,8 @@ class SecurityResearcher:
 me = SecurityResearcher()
 me.say_hi()
 ```
+
+<br>
 <br>
 
 <!-- Quote -->

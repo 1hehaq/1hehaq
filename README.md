@@ -116,7 +116,7 @@ me.say_hi()
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=E7CFAA&color=0d1117" alt="Git" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=E7CFAA&color=0d1117" alt="Docker" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=E7CFAA&color=0d1117" alt="VS Code" />
-  </div>
+  </p>
 </div>
 
 

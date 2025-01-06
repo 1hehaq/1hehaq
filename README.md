@@ -90,7 +90,7 @@ me.say_hi()
 
 <!-- Skills -->
 
-<!-- Languages -->
+<!--
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <p align="left">
       <img src="https://img.shields.io/badge/.go-00ADD8?style=for-the-badge&logo=go&logoColor=E7CFAA&color=0d1117" alt=".go" />
@@ -107,7 +107,6 @@ me.say_hi()
 
 <br>
 
-<!-- Tools -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <p align="left">
       <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=E7CFAA&color=0d1117" alt="Burp Suite" />
@@ -122,7 +121,6 @@ me.say_hi()
 
 <br>
 
-<!-- Platforms -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <p align="left">
     <img src="https://img.shields.io/badge/bugcrowd-E7CFAA?style=for-the-badge&logo=bugcrowd&logoColor=E7CFAA&color=0d1117" alt="Bugcrowd">
@@ -131,6 +129,58 @@ me.say_hi()
   </p>
 </div>
 
+-->
+
+```mermaid
+graph TB
+    classDef default fill:#0d1117,stroke:#E7CFAA,color:#E7CFAA,stroke-width:2px,font-size:14px
+    classDef category fill:#0d1117,stroke:#E7CFAA,color:#E7CFAA,stroke-width:3px,font-size:16px
+    classDef root fill:#0d1117,stroke:#E7CFAA,color:#E7CFAA,stroke-width:4px,font-size:18px
+
+    Root(("Skills"))
+
+    %% Main Structure
+    Root === Languages["Programming"]
+    Root === Security["Security"]
+    Root === Bounty["Bug Bounty"]
+
+    %% Languages Section
+    Languages --> Core["Core"]
+    Languages --> Web["Web"]
+    
+    Core --> Go[".go"]
+    Core --> Python[".python"]
+    Core --> C[".c/.cpp"]
+    Core --> Java[".java"]
+    Core --> Shell[".shell"]
+    
+    Web --> JavaScript[".javascript"]
+    Web --> CSS[".css"]
+    Web --> HTML[".html"]
+
+    %% Security Section
+    Security --> Testing["Testing"]
+    Security --> Environment["Environment"]
+    
+    Testing --> Burp["Burp Suite"]
+    Testing --> Post["Postman"]
+    
+    Environment --> Linux["Linux"]
+    Environment --> Docker["Docker"]
+    Environment --> Git["Git"]
+    Environment --> VSCode["VS Code"]
+
+    %% Bug Bounty Section
+    Bounty --> BC["Bugcrowd"]
+    Bounty --> H1["HackerOne"]
+    Bounty --> Int["Intigriti"]
+
+    class Root root
+    class Languages,Security,Bounty,Core,Web,Testing,Environment category
+```
+
+<br>
+<br>
 <br>
 <br>
 

@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=1hehaq&color=E7CFAA"><img src="https://komarev.com/ghpvc/?username=1hehaq&color=E7CFAA" alt="Profile Views"></a>
   <a href="https://github.com/1hehaq"><img src="https://img.shields.io/github/followers/1hehaq?label=Follow&style=social" alt="GitHub followers"></a>
-<!--   <a href="https://twitter.com/1hehaq"><img src="https://img.shields.io/twitter/follow/1hehaq?label=Follow&style=social" alt="Twitter Follow"></a> -->
+  <a href="https://twitter.com/1hehaq"><img src="https://img.shields.io/twitter/follow/1hehaq?label=Follow&style=social" alt="Twitter Follow"></a>
 </p>
 
 </div>

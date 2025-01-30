@@ -233,7 +233,7 @@ graph TB
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #0D1117; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1hehaq&langs_count=6&layout=compact&title_color=E7CFAA&text_color=E7CFAA&bg_color=0D1117&border_color=30363D&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="355" height="175" style="margin-right: 10px;" />
-    <img src="https://streak-stats.demolab.com?user=1hehaq&background=0D1117&ring=E7CFAA&fire=E7CFAA&currStreakNum=E7CFAA&sideNums=E7CFAA&currStreakLabel=E7CFAA&sideLabels=E7CFAA&dates=E7CFAA&stroke=30363D&hide_border=true" alt="GitHub Streak Stats" width="465" height="175" />
+    <img src="https://streak-stats.demolab.com?user=1hehaq&background=0D1117&ring=E7CFAA&fire=E7CFAA&currStreakNum=E7CFAA&sideNums=E7CFAA&currStreakLabel=E7CFAA&sideLabels=E7CFAA&dates=E7CFAA&stroke=30363D&hide_border=true" alt="GitHub Streak" width="465" height="175" />
   </div>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=1hehaq&bg_color=0D1117&color=E7CFAA&line=E7CFAA&point=E7CFAA&area_color=E7CFAA&area=true&hide_border=true&custom_title=%20" width="850" height="300" alt="Contribution Constellation"/>

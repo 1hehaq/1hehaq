@@ -1,5 +1,5 @@
 <!-- Banner Image (if you have a custom banner, ensure it matches the new color scheme) -->
-![saturn](https://github.com/user-attachments/assets/3ff73a31-2d57-4f01-bbc9-1bf11c3acadb) -->
+<!-- ![saturn](https://github.com/user-attachments/assets/3ff73a31-2d57-4f01-bbc9-1bf11c3acadb) -->
 
 <p align="right">
 <img src="https://github.com/user-attachments/assets/31b288e9-3269-4d1d-9525-f2b3eef738c1" alt="Saturn" width="300"/>
